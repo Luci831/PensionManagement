@@ -1,0 +1,272 @@
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\refint\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\romik\Desktop\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\refint\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Downloads\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (2)\MFPE\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\refint\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Downloads\MFPE (2) - Copy\MFPE (2) - Copy\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\refint\AuthenticationMicroservice.dll
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Downloads\Pension Management System\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\refint\AuthenticationMicroservice.dll
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache
+C:\Users\romik\Desktop\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.exe
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.deps.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.runtimeconfig.dev.json
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.AssemblyReference.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.AssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthenticationMicroservice.styles.css
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\staticwebassets\AuthenticationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.csproj.CopyComplete
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\ref\AuthenticationMicroservice.dll
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.pdb
+C:\Users\Krishna singh\Dropbox\PC\Downloads\MFPE (4)\MFPE (3)\MFPE\AuthenticationMicroservice\AuthenticationMicroservice\obj\Debug\net5.0\AuthenticationMicroservice.genruntimeconfig.cache

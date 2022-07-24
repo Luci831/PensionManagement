@@ -1,0 +1,79 @@
+﻿@model PensionManagementTrial.Models.PensionerDetails
+
+@{
+    var title = "Pensioner Details";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Pension</h4>
+    <hr />
+    <dl class="row">
+         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PensionAmount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PensionAmount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dob)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dob)
+        </dd>
+        <dt class = "col-sm-2" >
+            @Html.DisplayNameFor(model => model.Pan)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pan)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AadharNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AadharNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AccountNo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AccountNo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SalaryEarned)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SalaryEarned)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Allowances)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Allowances)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PensionTypes)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PensionTypes.PensionerType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Banks)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Banks.BankName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Prid"class=" btn btn-primary">Edit</a> |
+    <a asp-action="Manage" class="btn btn-danger">Back to List</a>
+</div>

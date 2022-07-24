@@ -1,0 +1,71 @@
+﻿@model PensionManagementTrial.Models.User
+@{
+    var title = "My Account";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<form>
+
+    <div class="row px-2 mx-2 backgroundWhite border">
+        <div class="col-12 p-3">
+            <h2 class="text-primary">@title</h2>
+        </div>
+        <div class="col-8">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="FirstName"></label>
+                </div>
+                <div class="col-8">
+                    <input readonly asp-for="FirstName" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="LastName"></label>
+                </div>
+                <div class="col-8">
+                    <input readonly asp-for="LastName" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Dob"></label>
+                </div>
+                <div class="col-8">
+                    <input readonly asp-for="Dob" type="date" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="ContactNumber"></label>
+                </div>
+                <div class="col-8">
+                    <input readonly asp-for="ContactNumber" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Email"></label>
+                </div>
+                <div class="col-8">
+                    <input readonly asp-for="Email" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <a asp-action="EditProfile" asp-route-id="@Model.UserId" class="btn btn-primary form-control">Edit</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-4 text-right" style="width:250px;">
+            @if (Model.Picture != null)
+            {
+                var base64 = Convert.ToBase64String(Model.Picture);
+                var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                <img src="@imgsrc" width="100%" />
+            }
+        </div>
+    </div>
+
+</form>
+
